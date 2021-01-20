@@ -4,10 +4,10 @@ import { fetchProducts, saveOrder } from '../api';
 import { checkIsSelected } from './helpers';
 import OrderLocation from './OrderLocation';
 import OrderSummary from './OrderSummary';
-import ProductCard from './ProductCard';
+//import ProductCard from './ProductCard';
 import ProductsList from './ProductsList';
 import StepsHeader from './StepsHeader';
-import Footer from '../Footer'
+//import Footer from '../Footer';
 import { OrderLocationData, Product } from './types';
 import './styles.css';
 
